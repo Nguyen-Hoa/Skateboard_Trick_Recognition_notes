@@ -8,9 +8,9 @@ On creating a neural network based approach for identifying skateboard tricks fr
 
 ## Architectures
 
--[R2plus1D, 2018](literature/pdfs/R2plus1D.pdf)
--[FASTER, 2019](literature/pdfs/FASTER.pdf)
--[CSN, 2019](literature/pdfs/CSN.pdf)
+- [R2plus1D, 2018](literature/pdfs/R2plus1D.pdf)
+- [FASTER, 2019](literature/pdfs/FASTER.pdf)
+- [CSN, 2019](literature/pdfs/CSN.pdf)
 
 ## Approaches
 
